@@ -17,7 +17,7 @@
         </ul>
 
    <h2>SmartDemand</h2>
-   <p>SmartDemand será desenvolvido em linguagem C, onde será utilizado os recursos : TAD, listas e alocação dinâmica.</p>
+        <p>SmartDemand será desenvolvido em linguagem C, onde será utilizado os recursos : TAD, listas e alocação dinâmica.</p>
 
  
 </div>
