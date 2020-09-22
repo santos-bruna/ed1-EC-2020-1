@@ -21,7 +21,9 @@
         </ul>
 
    <h2>Tecnologias</h2>
-    <p>SmartDemand será desenvolvido em linguagem C, onde será utilizado os recursos : TAD, listas e alocação dinâmica.</p>
+    <p>
+    <a href="https://github.com/SystemOutPrintLeal/ed1-EC-2020-1">SmartDemand</a>
+    será desenvolvido em linguagem C, onde será utilizado os recursos : TAD, listas e alocação dinâmica.</p>
 
 <h2>Participantes</h2>
 <ul>
