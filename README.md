@@ -16,8 +16,14 @@
             <li>...</li>
         </ul>
 
-   <h2>SmartDemand</h2>
-        <p>SmartDemand será desenvolvido em linguagem C, onde será utilizado os recursos : TAD, listas e alocação dinâmica.</p>
+   <h2>Tecnologias</h2>
+    <p>SmartDemand será desenvolvido em linguagem C, onde será utilizado os recursos : TAD, listas e alocação dinâmica.</p>
+
+<h2>Participantes</h2>
+<ul>
+    <li>Bruna Oliveira dos Santos</li> 
+    <li>Victor Leal Martins</li> 
+</ul>
 
  
 </div>
