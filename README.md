@@ -6,7 +6,6 @@
     </p>
 </div>
 
-<>
 
 <div id="Atributos">
     <h2>Motivação</h2>
